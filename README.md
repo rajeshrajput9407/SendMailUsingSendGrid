@@ -1,6 +1,5 @@
 # SendMailUsingSendGrid
 Send Mail Using Send Grid
-//////////////////////////**********Using SendGrid ****************/////////////////////////////
 
  var client = new SendGridClient("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");
                 var msg = new SendGridMessage()
